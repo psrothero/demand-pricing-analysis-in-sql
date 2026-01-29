@@ -24,4 +24,4 @@ Estimate demand and identify the revenue-maximizing price using historical sales
 - notebooks/: full analysis
 - sql/: reusable SQL queries
 
-Based on a guided DataCamp project, with additional restructuring and documentation.
+Based on a guided DataCamp project, with additional restructuring and implementation.
